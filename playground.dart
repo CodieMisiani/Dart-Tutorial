@@ -14,10 +14,17 @@
 //   print("Is Student: $isStudent");
 // }
 
-void main() {
-  var name = "Nimrod Misiani";
-  print("Hello, $name!");
+// void main() {
+//   var name = "Nimrod Misiani";
+//   print("Hello, $name!");
 
-  dynamic age = 20;
-  print("Your age is $age years old.");
+//   dynamic age = 20;
+//   print("Your age is $age years old.");
+// }
+
+void main() {
+  final String name = "Nimrod Misiani";
+  const age = 20;
+
+  print("$name is $age years old.");
 }
