@@ -22,9 +22,9 @@
 //   print("Your age is $age years old.");
 // }
 
-void main() {
-  final String name = "Nimrod Misiani";
-  const age = 20;
+// void main() {
+//   final String name = "Nimrod Misiani";
+//   const age = 20;
 
-  print("$name is $age years old.");
-}
+//   print("$name is $age years old.");
+// }
